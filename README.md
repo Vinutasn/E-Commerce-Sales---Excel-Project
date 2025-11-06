@@ -1,7 +1,7 @@
-# 📊 E-commerce Sales & Customer Insights Report
+# 📊 Vrinda Store Sales & Customer Insights Report
 
 ### 🧾 Project Overview
-This project analyzes **E-commerce sales and customer behavior** using Excel. The dashboard provides actionable insights into sales performance, customer demographics, order patterns, and top-performing channels and states. It was created to demonstrate strong **data cleaning, visualization, and storytelling skills** using Excel.
+This project analyzes **Vrinda Store Sales & Customer behavior** using Excel. The dashboard provides actionable insights into sales performance, customer demographics, order patterns, and top-performing channels and states. It was created to demonstrate strong **data cleaning, visualization, and storytelling skills** using Excel.
 
 ### 🎯 Objectives
 - To analyze sales performance across months, channels, and regions.
